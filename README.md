@@ -5,6 +5,7 @@ Hi 👋, I'm Jun Seok Park !
 
 Programming languages :
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
+
 Backend :
   
 Frontend :
