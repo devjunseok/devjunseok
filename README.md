@@ -4,7 +4,7 @@ Hi 👋, I'm Jun Seok Park !
 💻 My Skills  
 
 Programming languages :
-#3776AB
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
 Backend :
   
 Frontend :
