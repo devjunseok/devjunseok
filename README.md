@@ -5,6 +5,6 @@ Hi 👋, I'm Jun Seok Park !
 
 - [Portfolio](https://iodized-justice-c7c.notion.site/141126f58f834e1ca473589d5f187630)
 
-- [YouTube]([https://www.youtube.com/channel/UCWhjbQADMc-jNN-JICJsdNA](https://www.youtube.com/channel/UCWhjbQADMc-jNN-JICJsdNA))
+- [YouTube](https://www.youtube.com/channel/UCWhjbQADMc-jNN-JICJsdNA)
 
 - [Blog](https://jundevlog.tistory.com/)
