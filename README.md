@@ -3,16 +3,8 @@ Hi 👋, I'm Jun Seok Park !
 
 ---
 
-# Channel.
+- [Portfolio](https://iodized-justice-c7c.notion.site/141126f58f834e1ca473589d5f187630)
 
-- Git 저장소
+- [YouTube]([https://www.youtube.com/channel/UCWhjbQADMc-jNN-JICJsdNA](https://www.youtube.com/channel/UCWhjbQADMc-jNN-JICJsdNA))
 
-[devjunseok - Overview](https://github.com/devjunseok)
-
-- 유튜브
-
-[Jun-seok Park](https://www.youtube.com/channel/UCWhjbQADMc-jNN-JICJsdNA)
-
-- 블로그
-
-[jun's dev log](https://jundevlog.tistory.com/)
+- [Blog](https://jundevlog.tistory.com/)
